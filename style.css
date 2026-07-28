@@ -539,8 +539,12 @@ input[type="range"] {
   width: 150px;
   border-radius: 50%;
 }
+.editor-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 .editor-preview {
-  margin-left: 100px;
   width: 950px;
   height: 750px;
   border-top-right-radius: 20px;
