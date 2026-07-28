@@ -19,7 +19,6 @@
 }
 body {
   background-image: url(bg/login_bg.png);
-  /* background-position: center; */
   background-repeat: no-repeat;
   background-size: cover;
 }
