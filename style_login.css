@@ -18,7 +18,7 @@
   --font-family: "Geist", ui-sans-serif, system-ui, sans-serif;
 }
 body {
-  background-image: url(login_bg.png);
+  background-image: url(bg/login_bg.png);
   /* background-position: center; */
   background-repeat: no-repeat;
   background-size: cover;
