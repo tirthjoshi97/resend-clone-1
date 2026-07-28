@@ -540,6 +540,7 @@ input[type="range"] {
   border-radius: 50%;
 }
 .editor-container{
+  width: 100vw;
   display: flex;
   justify-content: center;
   align-items: center;
